@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "aws_region": "us-west-2",
+        "django_settings": "wkit.settings",
+        "profile_name": "default",
+        "project_name": "wkit",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-9zzbtv86g"
+    }
+}
